@@ -1,0 +1,6 @@
+A) 9 #Números ímpares 
+B) 128 # 2^n
+C) 49  # n^2
+D) 100 # Quadrado dos números pares
+E) 13 # Fibonacci 
+F) 200 # começa com D
